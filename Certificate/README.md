@@ -7,7 +7,7 @@
 
 ## ◉ cPanel & WHM System Administrator I Certification Exam (CWSA-1)
 
-![Certificate Image](/Certificate/images/)
+![Certificate Image](/Certificate/images/certification-cPanel-&-WHM-System-Administrator-I-Certification-Exam-CWSA-1-rod150623.jpg)
 
 ## ◉ cPanel & WHM System Administrator II Certification Exam (CWSA-2)
 
