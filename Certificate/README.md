@@ -3,7 +3,7 @@
 ![Certificate Image](/Certificate/images/certification-cPanel-Professional-Certification-Exam-CPP-rod150623.jpg)
 
 ## ◉ WHM Administration Certification Exam (CWA)
-![Certificate Image](/Certificate/images/)
+![Certificate Image](/Certificate/images/certification-WHM-Administration-Certification-Exam-CWA-rod150623.jpg)
 
 ## ◉ cPanel & WHM System Administrator I Certification Exam (CWSA-1)
 
