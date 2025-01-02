@@ -15,6 +15,9 @@
     - [3. VestaCP](#3-vestacp)
     - [4. DirectAdmin](#4-directadmin)
     - [5. So sánh các WebPanel](#5-so-sánh-các-webpanel)
+  - [LAB WebPanel](/Week1/LabWebPanel/README.md)
+    - [aaPanel](/Week1/LabWebPanel/aaPanel/README.md)
+    - [CyberPanel](/Week1/LabWebPanel/CyberPanel_Lab/README.md)
 
 
 ---
@@ -328,7 +331,7 @@ Tùy theo nhu cầu, bạn có thể:
 
 **aaPanel** là một bảng điều khiển quản lý máy chủ web mã nguồn mở, cung cấp giao diện thân thiện và dễ sử dụng để quản lý máy chủ Linux. Nó hỗ trợ cài đặt và quản lý các dịch vụ web như Nginx, Apache, MySQL, PHP, FTP, và Email thông qua giao diện đồ họa trực quan. Với aaPanel, người dùng không cần thao tác nhiều với dòng lệnh mà vẫn có thể quản trị máy chủ hiệu quả.
 
-
+![aaPanel](/Week1/images/aaPanel.png)  
 
 ### Tính năng chính
 
@@ -380,7 +383,7 @@ Tùy theo nhu cầu, bạn có thể:
 
 **CyberPanel** là một bảng điều khiển quản lý máy chủ web mã nguồn mở, được thiết kế đặc biệt để tối ưu hóa hiệu suất với OpenLiteSpeed hoặc LiteSpeed Enterprise. Với giao diện thân thiện, CyberPanel cung cấp các công cụ mạnh mẽ giúp quản lý máy chủ, website, cơ sở dữ liệu, và email dễ dàng mà không cần sử dụng dòng lệnh phức tạp.
 
-![Cpanel](/Week1/images/CyberPane.png)  
+![CyberPanel](/Week1/images/CyberPane.png)  
 
 
 ### Tính năng chính
